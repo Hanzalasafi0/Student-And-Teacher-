@@ -4,7 +4,7 @@
 ## Technologies
 HTML, CSS, JavaScript, Firebase
 
-##  Features
+##  Features    
 - Role-based Login (Admin, Teacher, Student)
 - Appointment Scheduling & Approval
 - Messaging system
